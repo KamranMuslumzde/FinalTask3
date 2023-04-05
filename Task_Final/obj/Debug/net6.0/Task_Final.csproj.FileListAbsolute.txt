@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\bin\Debug\net6.0\Task_Final.exe
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\bin\Debug\net6.0\Task_Final.deps.json
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\bin\Debug\net6.0\Task_Final.runtimeconfig.json
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\bin\Debug\net6.0\Task_Final.dll
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\bin\Debug\net6.0\Task_Final.pdb
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\Task_Final.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\Task_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\Task_Final.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\Task_Final.AssemblyInfo.cs
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\Task_Final.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\Task_Final.dll
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\refint\Task_Final.dll
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\Task_Final.pdb
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\Task_Final.genruntimeconfig.cache
+C:\Users\User\Desktop\GitEducation\FinalWork\Task_Final\obj\Debug\net6.0\ref\Task_Final.dll
